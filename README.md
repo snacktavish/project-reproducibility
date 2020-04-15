@@ -1,7 +1,7 @@
 # Project Reproducibility
 
 
-![Iris doggie](IMG_5578)
+![Iris doggie](https://github.com/snacktavish/project-reproducibility/blob/master/IMG_5578.jpg)
 
 
 The goal of this repository is to serve as an example on how to set up any type of data analysis in a reproducible way.
